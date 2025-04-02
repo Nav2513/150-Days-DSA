@@ -12,6 +12,7 @@ function largestNumber(arr) {
 
 console.log(largestNumber([20, 100, 98, 12, 45, 1]));
 
+
 /*
         --- Largest number in the array ---
 
